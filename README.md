@@ -1,5 +1,6 @@
 # Python Salary Converter Hourly --> Yearly & Vice Versa
 This python scripts calculates hourly job rate from a given yearly rate and vice versa and it also takes into account that taxes will be deducted.
+<img src="payrate_py_screenshot.png" width="600">
 
 ## Why did I create this?
 ---
